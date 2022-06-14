@@ -19,6 +19,9 @@ texto = "estrutura de dados"
 float = 10.89
 print("Olá") '''
 
+from unittest import result
+
+
 nome = "Matheus"
 idade = 19
 
@@ -56,3 +59,11 @@ while i < 10:
 
 for i in range (0, 10, 1): # Range = faixa, de tanto até tanto e de quanto ele vai se auto incrementar
     print(str(i)+" ")
+
+def somarValores(v1, v2, v3):
+    resultado = v1 + v2 + v3
+    return resultado
+
+print("Olá mundo!")
+result = somarValores(3,4,6)
+print(result)
