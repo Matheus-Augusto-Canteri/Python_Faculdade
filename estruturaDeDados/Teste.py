@@ -101,3 +101,4 @@ i = 0
 while(i < 4):
     print(minhaLista[i])
     i += 1
+
