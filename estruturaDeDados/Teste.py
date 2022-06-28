@@ -67,7 +67,7 @@ result = somarValores(3,4,6)
 print(result)'''
 
 #criando uma lista vazia
-minhaLista[]
+minhaLista = []
 #criando uma lista com elementos
 minhaOutraLista = [1,7,38,99]
 
